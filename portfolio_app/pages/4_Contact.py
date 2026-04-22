@@ -12,4 +12,4 @@ if st.button("Send"):
     else:
         st.error("Fill all fields")
 
-st.write("GitHub: https://github.com/yourusername")
+st.write("GitHub: https://github.com/johnwaynelaurio1216-gif/streamlit-portfolio")
